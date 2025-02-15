@@ -1,0 +1,80 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+.login-container {
+    padding: 40px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 0 0px 30px rgb(22, 255, 197);
+    text-align: center;
+}
+.login-container h1 {
+    margin-bottom: 20px;
+    color: rgb(22, 255, 197);
+}
+.login-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid rgb(22, 255, 197);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.password-wrapper {
+    position: relative;
+    width: 100%;
+}
+.password-wrapper input {
+    padding: 10px 40px 10px 10px;
+}
+.toggle-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    width: 20px;
+}
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(22, 255, 197);
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-container button:hover {
+    background-color: rgb(18, 204, 157);
+}
+.note {
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+}
+.signature {
+    margin-top: 40px;
+    font-size: 14px;
+    color: rgb(103, 255, 242);
+}
+.title {
+    margin-bottom: 30px;
+    font-size: 36px;
+    color: rgb(22, 255, 197);
+}
+.signup-link {
+    margin-top: 20px;
+    color: rgb(22, 255, 197);
+    text-decoration: none;
+}
+.signup-link:hover {
+    text-decoration: underline;
+}
