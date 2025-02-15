@@ -6,18 +6,18 @@ This project is an advanced calculator application that supports basic arithmeti
 This is my first web development project, and I’m excited to share it with the world! 🚀
 
 ## Features
-Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
+**Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
 
-Matrix Calculations: Perform matrix operations such as addition, subtraction, and multiplication.
+**Matrix Calculations**: Perform matrix operations such as addition, subtraction, and multiplication.
 
-Graph Plotting: Visualize mathematical functions with graph plotting.
+**Graph Plotting**: Visualize mathematical functions with graph plotting.
 
-User Accounts: Create an account or log in to save and access your calculation history.
+**User Accounts**: Create an account or log in to save and access your calculation history.
 
-Secure History Storage: Calculation history is securely stored and linked to your account.
+**Secure History Storage**: Calculation history is securely stored and linked to your account.
 
 ## Setup Instructions
-To set up this application on your local machine, please refer to the README.txt file for detailed instructions.
+To set up this application on your local machine, please refer to the **READ_ME.txt** file for detailed instructions.
 
 ## Technologies Used
 Front-end: **HTML, CSS, JavaScript**
@@ -27,13 +27,13 @@ Back-end: **PHP**
 Database: **MariaDB**
 
 ## How to Use
-Create an Account or Log In: Register for a new account or log in to an existing one.
+**Create an Account or Log In**: Register for a new account or log in to an existing one.
 
-Perform Calculations: Use the calculator for basic arithmetic, matrix operations, or graph plotting.
+**Perform Calculations**: Use the calculator for basic arithmetic, matrix operations, or graph plotting.
 
-View History: Access your calculation history from the current or previous sessions.
+**View History**: Access your calculation history from the current or previous sessions.
 
-Log Out and Reconnect: Your history will be saved and available when you log back in.
+**Log Out and Reconnect**: Your history will be saved and available when you log back in.
 
 ## Contributing
 This is my first project, and I’m open to feedback and contributions! If you’d like to contribute, feel free to fork the repository and submit a pull request.
