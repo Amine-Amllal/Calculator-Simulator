@@ -20,11 +20,11 @@ Secure History Storage: Calculation history is securely stored and linked to you
 To set up this application on your local machine, please refer to the README.txt file for detailed instructions.
 
 ## Technologies Used
-Front-end: HTML, CSS, JavaScript
+Front-end: **HTML, CSS, JavaScript**
 
-Back-end: PHP
+Back-end: **PHP**
 
-Database: MariaDB
+Database: **MariaDB**
 
 ## How to Use
 Create an Account or Log In: Register for a new account or log in to an existing one.
@@ -44,6 +44,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Acknowledgments
 This project was created as part of my journey into web development.
 
-Special thanks to my friend Amine Essahraoui, who was my partner in this project, and to our professor Tarik Hajji for his invaluable support and guidance.
+Special thanks to my friend **Amine Essahraoui**, who was my partner in this project, and to our professor **Tarik Hajji** for his invaluable support and guidance.
 
 Enjoy using the calculator! If you have any questions or suggestions, feel free to reach out. 😊
